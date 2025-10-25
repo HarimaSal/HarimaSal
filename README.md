@@ -102,7 +102,7 @@ const harimaSal = {
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=HarimaSal&theme=shadow-green&mode=weekly" />
   <img src="https://streak-stats.demolab.com?user=HarimaSal&theme=shadow-green&mode=weekly" alt="GitHub Streak" />
 </picture>
-    &emsp;&emsp;
+    
 <!-- hub 状态 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HarimaSal&theme=blueberry&show_icons=truen" />
