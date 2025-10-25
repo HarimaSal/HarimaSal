@@ -1,9 +1,11 @@
+<!-- 开篇标语 -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello!%20Shinedward&fontSize=80&fontAlign=50&fontAlignY=30&desc=code%20is%20just%20like%20magic,%20it%20inspires%20my%20passion&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=28&pause=1000&color=30A8DC&background=white&width=800&lines=You've+got+it,+to+my+code+space,++my+friends;Let's+Coding!!!&center=true&vCenter=true" alt="Typing SVG" /></a>
 </div>
 <p></p>
 
+<!-- 社交网站-->
 <div align="center">
     <!-- 小图标 -->
     <a href="https://gitee.com/harimasal"><img src="https://img.shields.io/badge/Gitee-码云-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>&emsp;
@@ -15,6 +17,8 @@
     <img src="https://komarev.com/ghpvc/?username=HarimaSal&label=Views&color=green&style=flat" alt="访问量统计" />&emsp;
 </div>
 <br>
+
+<!-- 仓库数据动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarimaSal/HarimaSal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarimaSal/HarimaSal/output/pacman-contribution-graph.svg">
@@ -92,12 +96,38 @@ const harimaSal = {
 
 ### 📈 GitHub 数据
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HarimaSal&theme=shadow-green&mode=weekly" alt="GitHub Streak" /></a>
- <img src="https://github-immortality.vercel.app/api?username=HarimaSal" alt="GitHub stat" />
+<!-- 最近活动 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HarimaSal&theme=material-palenight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=HarimaSal&theme=shadow-green&mode=weekly" />
+  <img src="https://streak-stats.demolab.com?user=HarimaSal&theme=shadow-green&mode=weekly" alt="GitHub Streak" />
+</picture>
+    &emsp;&emsp;
+<!-- hub 状态 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HarimaSal&theme=blueberry&show_icons=truen" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-immortality.vercel.app/api?username=HarimaSal" />
+  <img src="https://github-immortality.vercel.app/api?username=HarimaSal" alt="GitHub stat" />
+</picture>
+
+ <!-- hub折线图 -->
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HarimaSal&theme=tokyo-night" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HarimaSal&theme=minimal" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarimaSal&theme=minimal" alt="GitHub activity" />
+</picture>
+  
 </div>
 <br>
-<img alt="pacman contribution graph" src="./profile-3d-contrib/profile-south-season-animate.svg">
+
+<!-- 3d效果图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph" />
+</picture>
+
+
 <hr>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
