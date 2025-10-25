@@ -4,13 +4,24 @@
 </div>
 <p></p>
 
-###
-
+<div align="center">
+    <!-- 小图标 -->
+    <a href="https://gitee.com/harimasal"><img src="https://img.shields.io/badge/Gitee-码云-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>&emsp;
+    <a href="https://blog.csdn.net/qq_42130324"><img src="https://img.shields.io/badge/CSDN-博客-8c36db" alt="博客" title="博客" /></a>&emsp; 
+    <a href="https://x.com/vvM52utqdy74615"><img src="https://img.shields.io/badge/Twitter-推特-blue"  alt="推特" title="推特" /></a>&emsp;
+    <a href="https://www.youtube.com/@Shinedward"><img src="https://img.shields.io/badge/YouTube-油管-c32136" alt="油管" title="油管" /></a>&emsp;
+    <a href="https://space.bilibili.com/253739891"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="B站" title="B站" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=HarimaSal&label=Views&color=green&style=flat" alt="访问量统计" />&emsp;
+</div>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarimaSal/HarimaSal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarimaSal/HarimaSal/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HarimaSal/HarimaSal/output/pacman-contribution-graph.svg">
 </picture>
+
+
 
 ### Hi, 👋~ About me
 
@@ -80,17 +91,6 @@ const harimaSal = {
 <!--my introduction end -->
 
 ### 📈 GitHub 数据
-<div align="center">
-    <!-- 小图标 -->
-    <a href="https://gitee.com/harimasal"><img src="https://img.shields.io/badge/Gitee-码云-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>&emsp;
-    <a href="https://blog.csdn.net/qq_42130324"><img src="https://img.shields.io/badge/CSDN-博客-8c36db" alt="博客" title="博客" /></a>&emsp; 
-    <a href="https://x.com/vvM52utqdy74615"><img src="https://img.shields.io/badge/Twitter-推特-blue"  alt="推特" title="推特" /></a>&emsp;
-    <a href="https://www.youtube.com/@Shinedward"><img src="https://img.shields.io/badge/YouTube-油管-c32136" alt="油管" title="油管" /></a>&emsp;
-    <a href="https://space.bilibili.com/253739891"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="B站" title="B站" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=HarimaSal&label=Views&color=green&style=flat" alt="访问量统计" />&emsp;
-</div>
-<br>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HarimaSal&theme=shadow-green&mode=weekly" alt="GitHub Streak" /></a>
  <img src="https://github-immortality.vercel.app/api?username=HarimaSal" alt="GitHub stat" />
