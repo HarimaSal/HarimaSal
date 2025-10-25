@@ -12,10 +12,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HarimaSal/HarimaSal/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### Hi, 👋~ About me
 
-## Hi, 👋
- 
+<table>
+  <tbody>
+    <tr>
+  <td>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://x.com/vvM52utqdy74615" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
 <!--my introduction start-->
@@ -32,7 +35,48 @@
 </details>
   
   ✨ 站主目前为N岁的Java程序猿，也喜欢吃banana，进化攻城狮ing。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
- 
+
+```javascript
+const harimaSal = {
+    pronouns: "He" | "Him",
+    code: ["Java", "JavaScript", "Python", "Vue", "SpringBoot"],
+    askMeAbout: ["backend architecture", "microservices", "cloud-native solutions", "system design"
+                , "payment systems integration"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue.js", "React"],
+            css: ["Tailwind CSS", "Element UI", "Ant Design"],
+        },
+        backEnd: {
+            java: ["SpringBoot", "Spring Cloud", "MyBatis"],
+            python: ["FastAPI"],
+            js: ["Node.js", "Express"],
+        },
+        mobileApp: {
+            crossPlatform: ["UniApp"],
+        },
+        devOps: ["Docker", "Kubernetes", "Jenkins", "Nginx", "GitLab CI/CD"],
+        cloudServices: {
+            aliyun: ["ECS", "RDS", "OSS", "VPC"],
+            aws: ["EC2", "S3", "Lambda"],
+        },
+        databases: ["MySQL", "PostgreSQL", "Redis", "Elasticsearch", "MongoDB"],
+        misc: ["RESTful APIs", "Message Queues", "Distributed Systems", "Payment Gateway APIs"],
+    },
+    architecture: {
+        backEnd: ["microservices", "event-driven", "domain-driven design"],
+        system: ["high concurrency", "high availability", "distributed transactions"],
+        devOps: ["CI/CD pipeline", "container orchestration"],
+    },
+    currentFocus: "Building scalable payment systems and exploring cloud-native architectures",
+    funFact: "I automate everything I can – even my coffee machine is on a schedule!"
+};
+```
+  </td>
+</tr>
+  </tbody>
+
+</table>
 <!--my introduction end -->
 
 ### 📈 GitHub 数据
@@ -48,13 +92,13 @@
 </div>
 <br>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=HarimaSal&show_icons=true&theme=transparent" alt="GitHub stat" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HarimaSal&theme=shadow-green&mode=weekly" alt="GitHub Streak" /></a>
+ <img src="https://github-immortality.vercel.app/api?username=HarimaSal" alt="GitHub stat" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarimaSal&theme=minimal" alt="GitHub activity" />
 </div>
 <br>
-![south-season](./profile-3d-contrib/profile-south-season-animate.svg)
-
-###
-
+<img alt="pacman contribution graph" src="./profile-3d-contrib/profile-south-season-animate.svg">
+<hr>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
