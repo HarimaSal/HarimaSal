@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello!%20Shinedward&fontSize=80&fontAlign=50&fontAlignY=30&desc=code%20is%20just%20like%20magic,%20it%20inspires%20my%20passion&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=28&pause=1000&color=30A8DC&background=white&width=800&lines=You've+got+it++to+my+code+space++my+friends;Let's+Coding!!!&center=true&vCenter=true" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=28&pause=1000&color=30A8DC&background=white&width=800&lines=You've+got+it,+to+my+code+space,++my+friends;Let's+Coding!!!&center=true&vCenter=true" alt="Typing SVG" /></a>
 </div>
 <p></p>
 
